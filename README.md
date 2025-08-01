@@ -191,34 +191,5 @@ dev_dependencies:
 
 ## 📄 **License**
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
-## 🙏 **Acknowledgments**
-
-- Flutter team for the amazing framework
-- Google Fonts for beautiful typography
-- Animate Do package for smooth animations
-- Material Design for UI guidelines
-- The Flutter community for inspiration and support
-
-## 📞 **Contact**
-
-**Your Name** - your.email@example.com
-
-Project Link: [https://github.com/yourusername/fundraising-intern-portal](https://github.com/yourusername/fundraising-intern-portal)
-
----
-
-*Built with ❤️ using Flutter for internship excellence*
-
-## 🏅 **Why This Project Stands Out**
-
-This Flutter application demonstrates:
-
-✨ **Advanced UI/UX Skills** - Professional design with modern animations
-🏗️ **Clean Architecture** - Scalable and maintainable code structure  
-🎨 **Visual Excellence** - Stunning gradients, glassmorphism, and micro-interactions
-🚀 **Technical Proficiency** - Modern Flutter best practices and performance optimization
-📱 **Complete Feature Set** - Full-featured app ready for real-world deployment
-
-Perfect for showcasing Flutter development expertise in internship applications!
